@@ -1,5 +1,7 @@
-.bundle
-.sass-cache
-Gemfile.lock
-_site
-*.gem
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
